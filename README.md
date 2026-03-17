@@ -8,7 +8,7 @@ Este projeto apresenta um ecossistema completo de automação e análise de dado
 3. **Visualização (BI):** Geração de um Dashboard Executivo interativo em HTML/CSS com links diretos para compra.
 
 ## 📊 Dashboard Interativo
-![Dashboard Preview](Images\Dashboarding.png)
+![Dashboard Preview](Images/Dashboard.png)
 > **Dica:** Baixe o arquivo `DASHBOARD_PROFISSIONAL.html` para interagir com o gráfico e os links de compra.
 
 ## 💡 Diferenciais Técnicos
