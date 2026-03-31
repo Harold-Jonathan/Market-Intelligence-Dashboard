@@ -9,7 +9,7 @@ Este projeto apresenta um ecossistema completo de automação e análise de dado
 
 ## 📊 Dashboard Interativo
 ![Dashboard Preview](Images/Dashboard.png)
-> **Dica:** Baixe o arquivo `DASHBOARD_PROFISSIONAL.html` para interagir com o gráfico e os links de compra.
+> **Dica:** Baixe o arquivo `DASHBOARD_PROFISSIONAL.html` para interagir com o gráfico e os links de compra dentro do Analytics_Python.
 
 ## 💡 Diferenciais Técnicos
 - **JavaScript Injection:** O gráfico Plotly foi customizado com JS para permitir cliques diretos nas barras.
